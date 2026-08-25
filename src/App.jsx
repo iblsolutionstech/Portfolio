@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import profile from './assets/mauro-profile.jpg'
+import profile from './assets/mauro-profile.png'
 import certificate from './assets/javascript-coderhouse.jpg'
 
 const github = 'https://github.com/iblsolutionstech'
@@ -111,8 +111,14 @@ export default function App(){
         <div className="float-card fc1"><small>CORE</small><b>SQL Server · T-SQL</b></div>
         <div className="float-card fc2"><small>VALUE</small><b>Business ↔ Technology</b></div>
         <div className="terminal">
-          <div className="terminal-top"><span></span><span></span><span></span><b>process.sql</b></div>
-          <pre>{`SELECT\n  problema,\n  impacto,\n  solucion\nFROM negocio\nJOIN tecnologia\n  ON objetivo = resultado;`}</pre>
+          <div className="terminal-top"><span></span><span></span><span></span><b>business_process.sql</b></div>
+          <pre>{`SELECT
+  problema,
+  impacto,
+  prioridad,
+  solucion
+FROM proceso_negocio
+WHERE requiere_mejora = 1;`}</pre>
         </div>
       </div>
     </section>
@@ -174,7 +180,29 @@ export default function App(){
       </div>
     </section>
 
-    <section className="cta shell"><div className="cta-card"><span>NEXT STEP</span><h2>¿Buscás alguien que entienda el negocio y también pueda meterse en la solución?</h2><p>Estoy abierto a conectar con profesionales, recruiters y equipos vinculados a Sistemas, SQL, WMS/ERP, procesos y transformación tecnológica.</p><div className="actions"><a className="btn primary" href={linkedin} target="_blank">Conectar en LinkedIn ↗</a><a className="btn" href={github} target="_blank">Ver GitHub ↗</a></div></div></section>
+    <section className="section roles-section">
+      <div className="shell">
+        <div className="section-head"><span>05</span><b>ÁREAS DE ENFOQUE</b></div>
+        <div className="roles-grid">
+          <article><span>01</span><h3>Sistemas & Operación</h3><p>Comprensión de procesos reales y análisis funcional de soluciones que acompañan la operación.</p></article>
+          <article><span>02</span><h3>SQL & Datos</h3><p>Consultas, Stored Procedures, troubleshooting, performance, reporting y análisis de información.</p></article>
+          <article><span>03</span><h3>WMS / ERP</h3><p>Procesos logísticos, integraciones y visión funcional sobre sistemas críticos del negocio.</p></article>
+          <article><span>04</span><h3>Automatización & Desarrollo</h3><p>JavaScript, React y nuevas herramientas para ampliar la capacidad de construir soluciones.</p></article>
+        </div>
+      </div>
+    </section>
+
+    <section className="cta shell">
+      <div className="cta-card">
+        <span>CONECTEMOS</span>
+        <h2>Compartir experiencia también es una forma de seguir aprendiendo.</h2>
+        <p>Este portfolio reúne parte de mi recorrido en Sistemas, SQL, procesos logísticos y desarrollo. Si compartimos intereses profesionales, podés encontrarme en LinkedIn y GitHub.</p>
+        <div className="actions">
+          <a className="btn primary" href={linkedin} target="_blank">LinkedIn ↗</a>
+          <a className="btn" href={github} target="_blank">GitHub ↗</a>
+        </div>
+      </div>
+    </section>
 
     <footer className="shell"><div className="brand">MAURO<span>LOPEZ</span></div><p>Systems · SQL · Business Processes · Development</p><p>© 2026</p></footer>
   </main>
