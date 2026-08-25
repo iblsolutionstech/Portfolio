@@ -3,13 +3,6 @@
 .section{padding:108px 0;border-bottom:1px solid var(--line)}.alt{background:linear-gradient(180deg,rgba(255,255,255,.017),rgba(255,255,255,.004))}.section-head{display:grid;grid-template-columns:52px 1fr;margin-bottom:40px}.section-head span{font-size:11px;color:var(--muted)}.section-head b{font-size:11px;letter-spacing:.15em;color:var(--green)}.section h2,.cta h2{font-size:clamp(40px,4.7vw,64px);line-height:1.05;letter-spacing:-.052em;margin:0}.split,.section-intro{display:grid;grid-template-columns:1.15fr .85fr;gap:80px;align-items:start}.body-copy p,.section-intro p,.education>div>p,.cta-card>p{color:#b1bfcc;line-height:1.75;margin:0 0 17px}.value-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-top:66px}.value-grid article{border:1px solid var(--line);background:linear-gradient(155deg,rgba(255,255,255,.04),rgba(255,255,255,.01));border-radius:18px;padding:21px;min-height:210px}.value-grid article>div{font-size:11px;color:var(--green)}.value-grid h3{font-size:18px;margin:36px 0 8px}.value-grid p{font-size:13px;line-height:1.65;color:var(--muted);margin:0}.skills,.tags{display:flex;flex-wrap:wrap;gap:8px}.skills{margin-top:34px}.skills span,.tags span{border:1px solid var(--line);background:rgba(255,255,255,.02);border-radius:999px;padding:8px 10px;color:#b8c4d0;font-size:11px}.section-intro{align-items:end;margin-bottom:50px}.timeline{border-bottom:1px solid var(--line)}.timeline article{display:grid;grid-template-columns:46px 145px .9fr 1.25fr;gap:20px;padding:26px 0;border-top:1px solid var(--line)}.timeline .n{color:#566577;font-weight:800}.timeline .years{font-size:12px;color:var(--muted)}.role h3{font-size:17px;margin:0 0 5px}.role span{font-size:11px;color:var(--green)}.timeline article>p{margin:0;color:#aebdca;font-size:13px;line-height:1.65}.subhead{margin:0 0 18px;font-size:10px;letter-spacing:.14em;color:var(--muted)}.cases{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.case-card{min-height:320px;border:1px solid var(--line);background:linear-gradient(160deg,rgba(255,255,255,.045),rgba(255,255,255,.012));border-radius:20px;padding:22px;display:flex;flex-direction:column}.case-top{display:flex;justify-content:space-between;align-items:center}.case-top span{font-size:32px;font-weight:900;color:rgba(255,255,255,.14)}.case-top b{font-size:9px;letter-spacing:.12em;color:var(--green);text-transform:uppercase}.case-card h3{font-size:22px;letter-spacing:-.03em;margin:34px 0 10px}.case-card p{font-size:13px;line-height:1.65;color:var(--muted)}.case-card .tags{margin-top:auto}.dev-title{margin-top:65px}.dev-grid{display:grid;grid-template-columns:1.15fr .85fr .85fr;gap:14px}.dev-card{border:1px solid var(--line);border-radius:20px;overflow:hidden;background:rgba(255,255,255,.018);transition:.25s}.dev-card:hover{transform:translateY(-4px);border-color:rgba(112,223,201,.35)}.dev-visual{height:190px;background:radial-gradient(circle at 80% 15%,rgba(112,223,201,.13),transparent 30%),linear-gradient(135deg,#102139,#0a1727);padding:20px;position:relative}.dev-visual>span{font-size:9px;color:var(--green);letter-spacing:.12em;text-transform:uppercase}.fake-ui{position:absolute;inset:55px 22px 22px;border:1px solid rgba(255,255,255,.13);border-radius:12px;background:#e8edf2;padding:14px}.fake-ui i{display:inline-block;width:7px;height:7px;background:#a6b1bc;border-radius:50%;margin-right:4px}.fake-ui strong,.fake-ui em{display:block;background:#203347;border-radius:4px}.fake-ui strong{height:15px;width:62%;margin-top:18px}.fake-ui em{height:34px;width:88%;margin-top:16px;background:#cbd5de}.dev-copy{padding:20px}.dev-top{display:flex;justify-content:space-between;color:var(--muted);font-size:10px}.dev-copy h3{font-size:20px;margin:18px 0 8px}.dev-copy p{font-size:12px;line-height:1.6;color:var(--muted)}.featured .dev-visual{height:230px}.featured .dev-copy h3{font-size:25px}.education{display:grid;grid-template-columns:.88fr 1.12fr;gap:65px;align-items:center}.education h2{margin-bottom:20px}.edu-list{display:grid;gap:10px;margin-top:30px}.edu-list div{display:grid;gap:3px;border:1px solid var(--line);background:rgba(255,255,255,.018);padding:13px 14px;border-radius:12px}.edu-list b{font-size:13px}.edu-list span{font-size:11px;color:var(--muted)}.cert-card{position:relative;border:1px solid var(--line);background:rgba(255,255,255,.03);padding:9px;border-radius:20px;box-shadow:0 26px 70px rgba(0,0,0,.28)}.cert-card img{width:100%;border-radius:13px}.cert-card>div{position:absolute;left:25px;right:25px;bottom:22px;display:grid;gap:3px;background:rgba(7,16,27,.91);backdrop-filter:blur(14px);border:1px solid rgba(255,255,255,.12);border-radius:12px;padding:13px 15px}.cert-card span{font-size:8px;color:var(--green);letter-spacing:.13em}.cert-card b{font-size:12px}.cert-card small{font-size:10px;color:var(--muted)}.cta{padding:100px 0}.cta-card{position:relative;overflow:hidden;border:1px solid rgba(112,223,201,.18);border-radius:28px;background:radial-gradient(circle at 85% 15%,rgba(112,223,201,.12),transparent 27%),#0b1827;padding:clamp(36px,7vw,78px)}.cta-card>span{font-size:9px;letter-spacing:.14em;color:var(--green);font-weight:800}.cta-card h2{max-width:940px;margin-top:14px}.cta-card>p{max-width:690px;margin-top:18px}footer{display:grid;grid-template-columns:1fr auto auto;gap:25px;align-items:center;border-top:1px solid var(--line);padding:28px 0 40px;color:var(--muted);font-size:10px}footer p{margin:0}
 @media(max-width:980px){.nav-shell{grid-template-columns:1fr auto}.desktop-nav,.nav-cta{display:none}.menu{display:block;border:1px solid var(--line);background:rgba(255,255,255,.03);border-radius:10px;padding:8px 11px}.mobile-nav{display:grid;position:absolute;left:24px;right:24px;top:65px;border:1px solid var(--line);background:#091624;border-radius:14px;padding:10px}.mobile-nav button{background:transparent;border:0;text-align:left;padding:11px}.hero{grid-template-columns:1fr;padding-top:120px}.hero-visual{min-height:500px}.photo-card{width:48%}.terminal{width:67%;left:5%}.split,.section-intro,.education{grid-template-columns:1fr;gap:32px}.value-grid{grid-template-columns:1fr 1fr}.timeline article{grid-template-columns:45px 130px 1fr}.timeline article>p{grid-column:3}.cases{grid-template-columns:1fr}.dev-grid{grid-template-columns:1fr 1fr}.featured{grid-column:1/-1}footer{grid-template-columns:1fr}}
 @media(max-width:650px){.shell,.nav-shell{width:min(calc(100% - 30px),var(--max))}.hero h1{font-size:clamp(48px,14vw,68px)}.metrics{grid-template-columns:1fr}.hero-visual{min-height:415px}.photo-card{width:62%;right:3%}.terminal{width:80%;left:0}.fc1{left:0}.fc2{right:0}.section{padding:82px 0}.value-grid{grid-template-columns:1fr}.timeline article{grid-template-columns:1fr;gap:7px}.timeline article>p{grid-column:auto}.timeline .n{display:none}.dev-grid{grid-template-columns:1fr}.featured{grid-column:auto}.cta{padding:80px 0}footer{grid-template-columns:1fr}}
-
-
-/* =========================
-   V3 FINAL — REFINEMENTS
-   ========================= */
-
-/* Hero: terminal is now a supporting detail, not the protagonist */
 .hero-visual{
   min-height:620px;
 }
@@ -41,8 +34,6 @@
 }
 .fc1{top:10%;left:2%}
 .fc2{right:-2%;top:48%}
-
-/* The hero gets more breathing room on larger displays */
 @media (min-width:1180px){
   .hero{
     grid-template-columns:1.08fr .92fr;
@@ -50,8 +41,6 @@
   }
   .hero-copy{padding-right:10px}
 }
-
-/* Roles: makes the positioning explicit for recruiters */
 .roles-section{
   background:
     radial-gradient(circle at 15% 20%, rgba(112,223,201,.055), transparent 30%),
@@ -86,8 +75,6 @@
   line-height:1.65;
   font-size:14px;
 }
-
-/* Project cards: stronger hierarchy */
 .case-card,
 .dev-card{
   box-shadow:0 12px 34px rgba(0,0,0,.10);
@@ -96,13 +83,9 @@
 .dev-card:hover{
   border-color:rgba(112,223,201,.32);
 }
-
-/* Give certificate a slightly cleaner presentation */
 .cert-card{
   box-shadow:0 26px 70px rgba(0,0,0,.30);
 }
-
-/* Mobile: avoid overlaps in hero */
 @media(max-width:980px){
   .hero-visual{min-height:530px}
   .photo-card{right:5%;width:52%}
@@ -119,9 +102,6 @@
   .fc2{right:0;top:43%}
   .roles-grid{grid-template-columns:1fr}
 }
-
-
-/* V3.1 FINAL — identidad visual sin tono de búsqueda laboral */
 .photo-card{
   width:56% !important;
   aspect-ratio:1 / 1 !important;
