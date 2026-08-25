@@ -1,6 +1,8 @@
 # Portfolio profesional — Mauro Lopez 
 
-Segunda versión del portfolio, enfocada en posicionamiento profesional para LinkedIn y recruiters.
+Portfolio profesional de Mauro Lopez
+Sistemas · SQL Server · Análisis Funcional · WMS/ERP · Procesos · Desarrollo
+Portfolio creado para reunir mi experiencia profesional, formación y proyectos de desarrollo.
 
 ## Incluye
 - Hero con propuesta de valor clara: operación + tecnología.
@@ -24,4 +26,4 @@ El archivo `vite.config.js` está configurado para un repositorio llamado `Portf
 URL esperada:
 `https://iblsolutionstech.github.io/Portfolio/`
 
-Si usás otro nombre de repositorio, cambiá la propiedad `base` en `vite.config.js`.
+
