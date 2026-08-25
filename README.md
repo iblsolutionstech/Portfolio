@@ -1,29 +1,46 @@
-# Portfolio profesional — Mauro Lopez 
+# Mauro Lopez — Portfolio profesional
 
-Portfolio profesional de Mauro Lopez
-Sistemas · SQL Server · Análisis Funcional · WMS/ERP · Procesos · Desarrollo
-Portfolio creado para reunir mi experiencia profesional, formación y proyectos de desarrollo.
+Portfolio personal donde reúno mi experiencia en Sistemas, SQL Server, análisis funcional, procesos logísticos y desarrollo.
 
-## Incluye
-- Hero con propuesta de valor clara: operación + tecnología.
-- Perfil profesional y áreas de valor.
-- Timeline de experiencia.
-- Casos profesionales anonimizados para mostrar seniority sin exponer información sensible.
-- Proyectos públicos de GitHub.
-- Certificación JavaScript de CoderHouse integrada visualmente.
-- Diseño responsive.
-- Configuración preparada para GitHub Pages.
+## Perfil
 
-## Ejecutar
+Mi trayectoria profesional comenzó en operaciones logísticas y evolucionó hacia Sistemas. Ese recorrido me permite comprender los procesos desde la operación y también analizarlos desde una mirada funcional y técnica.
+
+Actualmente trabajo principalmente con:
+
+- SQL Server y T-SQL
+- Stored Procedures, troubleshooting y performance
+- Análisis funcional y técnico
+- WMS / ERP
+- Integraciones y reporting
+- Procesos logísticos y mejora continua
+- Coordinación de requerimientos e incidentes
+- JavaScript, React y Git como parte de mi evolución hacia desarrollo
+
+## Contenido del portfolio
+
+- Experiencia profesional y evolución de carrera
+- Áreas de especialización
+- Casos profesionales anonimizados
+- Proyectos de desarrollo publicados en GitHub
+- Formación y certificaciones
+
+## Tecnologías
+
+`SQL Server` · `T-SQL` · `WMS` · `ERP` · `SSRS` · `JavaScript` · `React` · `HTML` · `CSS` · `Git`
+
+## Ejecutar localmente
+
 ```bash
 npm install
 npm run dev
 ```
 
-## Publicar en GitHub Pages
-El archivo `vite.config.js` está configurado para un repositorio llamado `Portfolio`.
+## Sitio publicado
 
-URL esperada:
-`https://iblsolutionstech.github.io/Portfolio/`
+https://iblsolutionstech.github.io/Portfolio/
 
+---
 
+**Mauro Lopez**  
+Systems · SQL · Business Processes · Development
