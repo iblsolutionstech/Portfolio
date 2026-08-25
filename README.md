@@ -1,4 +1,4 @@
-# Portfolio profesional — Mauro Lopez (V2)
+# Portfolio profesional — Mauro Lopez 
 
 Segunda versión del portfolio, enfocada en posicionamiento profesional para LinkedIn y recruiters.
 
