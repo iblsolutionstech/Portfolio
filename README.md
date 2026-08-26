@@ -1,4 +1,4 @@
-# Mauro Lopez — Portfolio profesional
+# Portfolio profesional · Sistemas, SQL Server, WMS/ERP, procesos y desarrollo
 
 Portfolio personal donde reúno mi experiencia en Sistemas, SQL Server, análisis funcional, procesos logísticos y desarrollo.
 
